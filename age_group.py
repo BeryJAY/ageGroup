@@ -1,4 +1,4 @@
-#The current year is declared so as to be abel to calculate the age
+#The current year is declared so as to be able to calculate the age
 current_year=int (2018)
 #This is to allow the user input his birth year
 user_input=int(input("enter your birth year please"))
